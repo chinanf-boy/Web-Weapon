@@ -12,8 +12,16 @@
 
 - 图片素材 [https://visualhunt.com/](https://visualhunt.com/)
 
-## 小型
+## 小型web
 
-w3.css-example
+### w3.css-example
 
 w3cshcools.com 的微型框架
+
+### browser-sync 
+
+开启一个自动—看着文件变化—刷新网页的
+
+```
+browser-sync start --server --files "css/*.css, *.html"
+```

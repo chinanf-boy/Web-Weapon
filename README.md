@@ -31,3 +31,12 @@ browser-sync start --server --files "css/*.css, *.html"
 ### React-StoryBook-Material-ui-boilerplate
 模版 结合了material-ui storybook 测试 
 [react-stroybook-material-ui](https://github.com/sm-react/storybook-boilerplate)
+
+## Python-web
+
+### MechanicalSoup
+
+结合 ``requests`` 和 ``BeautifulSoup`` 简单API获取网页内容
+
+example_duckduckgo.py 
+获取 https://duckduckgo.com/?q=MechanicalSoup 列表中每个选项

@@ -25,7 +25,7 @@
 - 图片素材 [https://visualhunt.com/](https://visualhunt.com/)
 
 - [文章实时图片](https://shields.io/)
-[![GitHub stars](https://img.shields.io/github/stars/chinanf-boy/Web-Weapon.svg)](https://github.com/chinanf-boy/Web-Weapon/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/chinanf-boy/Web-Weapon.svg)](https://github.com/chinanf-boy/Web-Weapon)
 
 <div align='right'><a href='#目录' >⬆️</a></div>
 
@@ -38,7 +38,7 @@
 [w3cshcools.com 的微型框架](./小型web/w3css-example)
 
 ### browser-sync 
-[![GitHub stars](https://img.shields.io/github/stars/BrowserSync/browser-sync.svg)](https://github.com/BrowserSync/browser-sync/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/BrowserSync/browser-sync.svg)](https://github.com/BrowserSync/browser-sync)
 
 [开启一个自动—看着文件变化—刷新网页的](http://www.browsersync.cn/)
 
@@ -67,7 +67,7 @@ browser-sync start --server --files "css/*.css, *.html"
 
 ### MechanicalSoup
 
-[![GitHub stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup.svg)](https://github.com/MechanicalSoup/MechanicalSoup/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup.svg)](https://github.com/MechanicalSoup/MechanicalSoup)
 
 [结合 ``requests`` 和 ``BeautifulSoup`` 简单API获取网页内容](https://github.com/MechanicalSoup/MechanicalSoup)
 
@@ -76,7 +76,7 @@ browser-sync start --server --files "css/*.css, *.html"
 
 ### flasky
 
-[![GitHub stars](https://img.shields.io/github/stars/miguelgrinberg/flasky.svg)](https://github.com/miguelgrinberg/flasky/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/miguelgrinberg/flasky.svg)](https://github.com/miguelgrinberg/flasky)
 
 [Flask Web开发-基于Python的Web应用开发实战-书-flasky](https://github.com/miguelgrinberg/flasky)
 
@@ -89,7 +89,7 @@ browser-sync start --server --files "css/*.css, *.html"
 ## listr
 
 ``Terminal task list ``
-[![GitHub stars](https://img.shields.io/github/stars/SamVerschueren/listr.svg)](https://github.com/SamVerschueren/listr/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/SamVerschueren/listr.svg)](https://github.com/SamVerschueren/listr)
 
 [可以 动画显示及流程定制 的 工作流程](https://github.com/SamVerschueren/listr)
 
@@ -104,9 +104,11 @@ browser-sync start --server --files "css/*.css, *.html"
 
 ### [入门-segmentfault网](https://segmentfault.com/a/1190000010984857)
 
-### [weex-hacknews](https://github.com/weexteam/weex-hackernews) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-hackernews.svg)]() 首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。
+### [weex-hacknews](https://github.com/weexteam/weex-hackernews) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-hackernews.svg)](https://github.com/weexteam/weex-hackernews) 首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。
 
 ### [awesome-weex](https://github.com/joggerplus/awesome-weex)
+
+项目列表
 
 ---
 
@@ -115,7 +117,11 @@ browser-sync start --server --files "css/*.css, *.html"
 
 ### [ionic-PPT](https://adamdbradley.github.io/building-with-ionic2/#/)
 
+官方PPT
+
 ### [ionic-team](https://github.com/ionic-team)
+
+团队
 
 ### [ionic官方示例](https://github.com/ionic-team/ionic-conference-app)
 >live [demo](http://ionic-team.github.io/ionic-conference-app/www/)
@@ -125,6 +131,8 @@ browser-sync start --server --files "css/*.css, *.html"
 ## react-native
 
 ### [Web构建-仅需要拖拽](https://snack.expo.io/)
+
+实时应用一下效果
 
 ### [中文awesome](https://github.com/crazycodeboy/react-native-awesome)
 

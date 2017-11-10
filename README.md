@@ -28,6 +28,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/chinanf-boy/Web-Weapon.svg)](https://github.com/chinanf-boy/Web-Weapon/stargazers)
 
 <div align='right'><a href='#目录' >⬆️</a></div>
+
 ---
 
 # 小型web
@@ -37,13 +38,15 @@
 [w3cshcools.com 的微型框架](./小型web/w3css-example)
 
 ### browser-sync 
+[![GitHub stars](https://img.shields.io/github/stars/BrowserSync/browser-sync.svg)](https://github.com/BrowserSync/browser-sync/stargazers)
 
 [开启一个自动—看着文件变化—刷新网页的](http://www.browsersync.cn/)
 
-[命令md](./小型web/browser-sync.md)
 ```
 browser-sync start --server --files "css/*.css, *.html"
 ```
+
+[命令md](./小型web/browser-sync.md)
 
 <div align='right'><a href='#目录' >⬆️</a></div>
 
@@ -53,7 +56,7 @@ browser-sync start --server --files "css/*.css, *.html"
 
 ### React-StoryBook-Material-ui-boilerplate
 
-模版 结合了material-ui storybook 测试 
+微型模版 结合了material-ui storybook 测试 
 [react-stroybook-material-ui](https://github.com/sm-react/storybook-boilerplate)
 
 <div align='right'><a href='#目录' >⬆️</a></div>
@@ -64,12 +67,16 @@ browser-sync start --server --files "css/*.css, *.html"
 
 ### MechanicalSoup
 
+[![GitHub stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup.svg)](https://github.com/MechanicalSoup/MechanicalSoup/stargazers)
+
 [结合 ``requests`` 和 ``BeautifulSoup`` 简单API获取网页内容](https://github.com/MechanicalSoup/MechanicalSoup)
 
 [example_duckduckgo.py ](./Python-web/MechanicalSoup/example_duckduckgo.py)
 获取 https://duckduckgo.com/?q=MechanicalSoup 列表中每个选项
 
-### flask
+### flasky
+
+[![GitHub stars](https://img.shields.io/github/stars/miguelgrinberg/flasky.svg)](https://github.com/miguelgrinberg/flasky/stargazers)
 
 [Flask Web开发-基于Python的Web应用开发实战-书-flasky](https://github.com/miguelgrinberg/flasky)
 
@@ -79,7 +86,11 @@ browser-sync start --server --files "css/*.css, *.html"
 
 # JS
 
-## Terminal task list 
+## listr
+
+``Terminal task list ``
+[![GitHub stars](https://img.shields.io/github/stars/SamVerschueren/listr.svg)](https://github.com/SamVerschueren/listr/stargazers)
+
 [可以 动画显示及流程定制 的 工作流程](https://github.com/SamVerschueren/listr)
 
 <div align='right'><a href='#目录' >⬆️</a></div>
@@ -88,7 +99,6 @@ browser-sync start --server --files "css/*.css, *.html"
 
 # js写原生应用
 
----
 
 ## Weex
 

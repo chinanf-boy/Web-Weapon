@@ -145,3 +145,17 @@ browser-sync start --server --files "css/*.css, *.html"
 [![GitHub stars](https://img.shields.io/github.com/mmcgrana/gobyexample.svg)](https://github.com/mmcgrana/gobyexample)
 
 [go例子](https://github.com/mmcgrana/gobyexample)
+
+## go-tour
+
+[Go 指南](https://tour.go-zh.org/welcome/1)
+
+## Hugo
+
+静态网站生成 md文档 -> 模版  
+
+[hugo网站](gohugo.io)
+
+后面我想翻译一下 网站的文档 和 双语网站
+
+>就是快

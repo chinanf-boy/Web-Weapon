@@ -2,7 +2,7 @@
 
 ### 不管多厉害的高手，手上没有一件好的武器发挥所长
 
-### 都是那么碍手碍脚
+### 都是那么碍手碍脚 😊
 
 ### 记录Web技术
 
@@ -10,7 +10,7 @@
 
 ## 目录
 
->有些示例代码在相关文件夹中
+>有些示例代码在 代码库
 
 - [素材库](#素材库)
 - [小型Web](#小型Web)
@@ -145,6 +145,7 @@ browser-sync start --server --files "css/*.css, *.html"
 [![GitHub stars](https://img.shields.io/github.com/mmcgrana/gobyexample.svg)](https://github.com/mmcgrana/gobyexample)
 
 [go例子](https://github.com/mmcgrana/gobyexample)
+<<<<<<< HEAD
 
 ## go-tour
 
@@ -159,3 +160,5 @@ browser-sync start --server --files "css/*.css, *.html"
 后面我想翻译一下 网站的文档 和 双语网站
 
 >就是快
+=======
+>>>>>>> origin/master
